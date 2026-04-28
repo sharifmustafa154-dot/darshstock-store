@@ -1,1 +1,1 @@
-# darshstock-store
+# darsh-stock-store
